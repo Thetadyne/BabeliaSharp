@@ -1,4 +1,14 @@
-﻿using System.Collections.Concurrent;
+﻿//****************************************************************
+//Initial Algorithm Developed by Jonathan Basile 6/6/15
+//https://github.com/librarianofbabel/libraryofbabel.info-algo
+//****************************************************************
+//Scanner Developed by Scott McGraw 3/24/25
+//https://github.com/Thetadyne/BabeliaSharp
+//****************************************************************
+//CC BY-SA-NC No liability
+//****************************************************************
+
+using System.Collections.Concurrent;
 using System.Numerics;
 
 namespace BabeliaSharp
